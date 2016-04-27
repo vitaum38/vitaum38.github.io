@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://vitaum38.github.io
+title: vitaum38's blog
+tagline: vitor e a criatividade computacional
+description: Trabalhos e anotações sobre cadeiras do SMD
+paginate: 5
